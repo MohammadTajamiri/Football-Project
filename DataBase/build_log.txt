@@ -1,0 +1,13 @@
+FPL rows: 87077
+FBref 2023/24 shot rows: 10697 after removing duplicates: 10483
+2023/24 player rows: 11384
+2024/25 FotMob player rows: 11567 side unknown: 0
+2025/26 FotMob player rows: 12754 side unknown: 0
+  2025/26 lineup feed had wrong starter count; used FPL starts: Manchester United 2026-04-13 19:00
+  2025/26 lineup feed had wrong starter count; used FPL starts: Leeds United 2026-04-13 19:00
+  2025/26 lineup feed had wrong starter count; used FPL starts: Brentford 2026-04-18 11:30
+  2025/26 lineup feed had wrong starter count; used FPL starts: Fulham 2026-04-18 11:30
+2025/26 subs where the feed's second player is the one coming on: [3105, 3132]
+2025/26 goal timelines matching the score: 378 / 380; falling back to openfootball for 2
+Understat goal timelines matching the score: 760 / 760 []
+2025/26 penalty xG in feed: median 0.7884 std 0.0

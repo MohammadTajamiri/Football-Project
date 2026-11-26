@@ -1,0 +1,146 @@
+La Liga 2023/24 matches 380 score mismatches openfootball vs football-data: 0
+La Liga 2023/24 FBref matches 380 player rows 11888
+La Liga 2023/24 Understat players linked to FBref players by co-occurrence: 5
+La Liga 2023/24 Understat matches 380 goal timelines matching score: 380 mismatch: 0
+La Liga 2023/24 player goals taken from the reconciled timeline: 376 of 380
+La Liga 2024/25 matches 380 score mismatches openfootball vs football-data: 0
+La Liga 2024/25 FBref matches 220 player rows 6876
+La Liga 2024/25 Understat players linked to FBref players by co-occurrence: 1
+   goal timeline mismatch: Las Palmas v Sevilla understat (1, 3) result (2, 2) fbref rows: True own goals: 2
+La Liga 2024/25 Understat matches 380 goal timelines matching score: 379 mismatch: 1
+La Liga 2024/25 player goals taken from the reconciled timeline: 217 of 220
+La Liga 2025/26 matches 380 score mismatches openfootball vs football-data: 0
+La Liga 2025/26 FBref matches 41 player rows 1286
+La Liga 2025/26 Understat players linked to FBref players by co-occurrence: 1
+La Liga 2025/26 Understat matches 41 goal timelines matching score: 41 mismatch: 0
+La Liga 2025/26 player goals taken from the reconciled timeline: 39 of 41
+Serie A 2023/24 matches 380 score mismatches openfootball vs football-data: 0
+Serie A 2023/24 FBref shot rows: 9778 after removing duplicates: 9686
+Serie A 2023/24 FBref matches 379 player rows 12005
+Serie A 2023/24 Understat players linked to FBref players by co-occurrence: 9
+Serie A 2023/24 Understat matches 380 goal timelines matching score: 380 mismatch: 0
+Serie A 2023/24 player goals taken from the reconciled timeline: 377 of 379
+Serie A 2024/25 matches 380 score mismatches openfootball vs football-data: 0
+Serie A 2024/25 FBref shot rows: 5622 after removing duplicates: 5622
+Serie A 2024/25 FBref matches 228 player rows 7116
+Serie A 2024/25 Understat players linked to FBref players by co-occurrence: 1
+Serie A 2024/25 Understat matches 374 goal timelines matching score: 374 mismatch: 0
+Serie A 2024/25 player goals taken from the reconciled timeline: 225 of 228
+Serie A 2025/26 matches 380 score mismatches openfootball vs football-data: 0
+Serie A 2025/26 FBref shot rows: 0 after removing duplicates: 0
+Serie A 2025/26 FBref matches 30 player rows 949
+Serie A 2025/26 Understat players linked to FBref players by co-occurrence: 0
+Serie A 2025/26 Understat matches 30 goal timelines matching score: 30 mismatch: 0
+Serie A 2025/26 player goals taken from the reconciled timeline: 30 of 30
+Champions League 2023/24 matches 125
+Champions League 2024/25 matches 189
+Champions League 2025/26 matches 189
+  dataset has home/away reversed for 25-26-champions-league-real-madrid-vs-liverpool -> using the real fixture Liverpool v Real Madrid
+  dataset has home/away reversed for 25-26-champions-league-fc-københavn-vs-tottenham-hotspur -> using the real fixture Tottenham Hotspur v Copenhagen
+  dataset has home/away reversed for 25-26-champions-league-arsenal-vs-slavia-prague -> using the real fixture Slavia Praha v Arsenal
+  dataset has home/away reversed for 25-26-champions-league-chelsea-vs-qarabag-fk -> using the real fixture Qarabağ v Chelsea
+  dataset has home/away reversed for 25-26-champions-league-athletic-club-vs-newcastle-united -> using the real fixture Newcastle United v Athletic Club
+  dataset has home/away reversed for 25-26-champions-league-borussia-dortmund-vs-manchester-city -> using the real fixture Manchester City v Borussia Dortmund
+  dataset has home/away reversed for 25-26-champions-league-tottenham-hotspur-vs-paris-saint-germain -> using the real fixture Paris Saint-Germain v Tottenham Hotspur
+  dataset has home/away reversed for 25-26-champions-league-newcastle-united-vs-marseille -> using the real fixture Marseille v Newcastle United
+  dataset has home/away reversed for 25-26-champions-league-barcelona-vs-chelsea -> using the real fixture Chelsea v Barcelona
+  dataset has home/away reversed for 25-26-champions-league-bayer-leverkusen-vs-manchester-city -> using the real fixture Manchester City v Bayer Leverkusen
+  dataset has home/away reversed for 25-26-champions-league-bayern-münchen-vs-arsenal -> using the real fixture Arsenal v Bayern München
+  dataset has home/away reversed for 25-26-champions-league-psv-eindhoven-vs-liverpool -> using the real fixture Liverpool v PSV
+  dataset has home/away reversed for 25-26-champions-league-chelsea-vs-atalanta -> using the real fixture Atalanta v Chelsea
+  dataset has home/away reversed for 25-26-champions-league-newcastle-united-vs-bayer-leverkusen -> using the real fixture Bayer Leverkusen v Newcastle United
+  dataset has home/away reversed for 25-26-champions-league-slavia-prague-vs-tottenham-hotspur -> using the real fixture Tottenham Hotspur v Slavia Praha
+  dataset has home/away reversed for 25-26-champions-league-liverpool-vs-inter -> using the real fixture Inter v Liverpool
+  dataset has home/away reversed for 25-26-champions-league-arsenal-vs-club-brugge -> using the real fixture Club Brugge v Arsenal
+  dataset has home/away reversed for 25-26-champions-league-liverpool-vs-marseille -> using the real fixture Marseille v Liverpool
+  dataset has home/away reversed for 25-26-champions-league-manchester-city-vs-bodø/glimt -> using the real fixture Bodø/Glimt v Manchester City
+  dataset has home/away reversed for 25-26-champions-league-arsenal-vs-inter -> using the real fixture Inter v Arsenal
+  dataset has home/away reversed for 25-26-champions-league-psv-eindhoven-vs-newcastle-united -> using the real fixture Newcastle United v PSV
+  dataset has home/away reversed for 25-26-champions-league-pafos-fc-vs-chelsea -> using the real fixture Chelsea v Pafos
+  dataset has home/away reversed for 25-26-champions-league-borussia-dortmund-vs-tottenham-hotspur -> using the real fixture Tottenham Hotspur v Borussia Dortmund
+  dataset has home/away reversed for 25-26-champions-league-kairat-almaty-vs-arsenal -> using the real fixture Arsenal v Kairat
+  dataset has home/away reversed for 25-26-champions-league-chelsea-vs-napoli -> using the real fixture Napoli v Chelsea
+  dataset has home/away reversed for 25-26-champions-league-newcastle-united-vs-paris-saint-germain -> using the real fixture Paris Saint-Germain v Newcastle United
+  dataset has home/away reversed for 25-26-champions-league-tottenham-hotspur-vs-eintracht-frankfurt -> using the real fixture Eintracht Frankfurt v Tottenham Hotspur
+  dataset has home/away reversed for 25-26-champions-league-galatasaray-vs-manchester-city -> using the real fixture Manchester City v Galatasaray
+  dataset has home/away reversed for 25-26-champions-league-qarabag-fk-vs-liverpool -> using the real fixture Liverpool v Qarabağ
+  dataset has home/away reversed for 25-26-champions-league-newcastle-united-vs-qarabag-fk -> using the real fixture Qarabağ v Newcastle United
+  dataset has home/away reversed for 25-26-champions-league-qarabag-fk-vs-newcastle-united -> using the real fixture Newcastle United v Qarabağ
+  dataset has home/away reversed for 25-26-champions-league-tottenham-hotspur-vs-atletico-madrid -> using the real fixture Atlético Madrid v Tottenham Hotspur
+  dataset has home/away reversed for 25-26-champions-league-chelsea-vs-paris-saint-germain -> using the real fixture Paris Saint-Germain v Chelsea
+  dataset has home/away reversed for 25-26-champions-league-liverpool-vs-galatasaray -> using the real fixture Galatasaray v Liverpool
+  dataset has home/away reversed for 25-26-champions-league-arsenal-vs-bayer-leverkusen -> using the real fixture Bayer Leverkusen v Arsenal
+  dataset has home/away reversed for 25-26-champions-league-galatasaray-vs-liverpool -> using the real fixture Liverpool v Galatasaray
+  dataset has home/away reversed for 25-26-champions-league-paris-saint-germain-vs-chelsea -> using the real fixture Chelsea v Paris Saint-Germain
+  dataset has home/away reversed for 25-26-champions-league-newcastle-united-vs-barcelona -> using the real fixture Barcelona v Newcastle United
+  dataset has home/away reversed for 25-26-champions-league-bayer-leverkusen-vs-arsenal -> using the real fixture Arsenal v Bayer Leverkusen
+  dataset has home/away reversed for 25-26-champions-league-real-madrid-vs-manchester-city -> using the real fixture Manchester City v Real Madrid
+  dataset has home/away reversed for 25-26-champions-league-atletico-madrid-vs-tottenham-hotspur -> using the real fixture Tottenham Hotspur v Atlético Madrid
+  dataset has home/away reversed for 25-26-champions-league-arsenal-vs-sporting-cp -> using the real fixture Sporting CP v Arsenal
+  dataset has home/away reversed for 25-26-champions-league-liverpool-vs-paris-saint-germain -> using the real fixture Paris Saint-Germain v Liverpool
+  dataset has home/away reversed for 25-26-champions-league-paris-saint-germain-vs-liverpool -> using the real fixture Liverpool v Paris Saint-Germain
+  dataset has home/away reversed for 25-26-champions-league-sporting-cp-vs-arsenal -> using the real fixture Arsenal v Sporting CP
+  dataset has home/away reversed for 25-26-champions-league-arsenal-vs-atletico-madrid -> using the real fixture Atlético Madrid v Arsenal
+  dataset has home/away reversed for 25-26-champions-league-atletico-madrid-vs-liverpool -> using the real fixture Liverpool v Atlético Madrid
+  dataset has home/away reversed for 25-26-champions-league-napoli-vs-manchester-city -> using the real fixture Manchester City v Napoli
+  dataset has home/away reversed for 25-26-champions-league-arsenal-vs-athletic-club -> using the real fixture Athletic Club v Arsenal
+  dataset has home/away reversed for 25-26-champions-league-chelsea-vs-bayern-münchen -> using the real fixture Bayern München v Chelsea
+  dataset has home/away reversed for 25-26-champions-league-villarreal-vs-tottenham-hotspur -> using the real fixture Tottenham Hotspur v Villarreal
+  dataset has home/away reversed for 25-26-champions-league-tottenham-hotspur-vs-bodø/glimt -> using the real fixture Bodø/Glimt v Tottenham Hotspur
+  dataset has home/away reversed for 25-26-champions-league-manchester-city-vs-monaco -> using the real fixture Monaco v Manchester City
+  dataset has home/away reversed for 25-26-champions-league-benfica-vs-chelsea -> using the real fixture Chelsea v Benfica
+  dataset has home/away reversed for 25-26-champions-league-olympiacos-vs-arsenal -> using the real fixture Arsenal v Olympiacos
+  dataset has home/away reversed for 25-26-champions-league-newcastle-united-vs-union-st.gilloise -> using the real fixture Union Saint-Gilloise v Newcastle United
+  dataset has home/away reversed for 25-26-champions-league-benfica-vs-newcastle-united -> using the real fixture Newcastle United v Benfica
+  dataset has home/away reversed for 25-26-champions-league-manchester-city-vs-villarreal -> using the real fixture Villarreal v Manchester City
+  dataset has home/away reversed for 25-26-champions-league-tottenham-hotspur-vs-monaco -> using the real fixture Monaco v Tottenham Hotspur
+  dataset has home/away reversed for 25-26-champions-league-liverpool-vs-eintracht-frankfurt -> using the real fixture Eintracht Frankfurt v Liverpool
+  dataset has home/away reversed for 25-26-champions-league-ajax-vs-chelsea -> using the real fixture Chelsea v Ajax
+UCL 2025/26 dataset matches skipped because their score disagrees with the result: [('25-26-champions-league-barcelona-vs-newcastle-united', (1, 1), (2, 1)), ('25-26-champions-league-manchester-city-vs-real-madrid', (0, 3), (2, 1)), ('25-26-champions-league-atletico-madrid-vs-arsenal', (0, 1), (0, 4))]
+UCL 2025/26 matches with FotMob team stats: 61
+   25-26-champions-league-ajax-vs-chelsea English lineup names matched: 21 / 22
+   25-26-champions-league-arsenal-vs-athletic-club English lineup names matched: 19 / 19
+   25-26-champions-league-arsenal-vs-club-brugge English lineup names matched: 18 / 20
+   25-26-champions-league-arsenal-vs-inter English lineup names matched: 20 / 20
+   25-26-champions-league-arsenal-vs-slavia-prague English lineup names matched: 17 / 19
+   25-26-champions-league-athletic-club-vs-newcastle-united English lineup names matched: 16 / 17
+   25-26-champions-league-atletico-madrid-vs-liverpool English lineup names matched: 20 / 21
+   25-26-champions-league-barcelona-vs-chelsea English lineup names matched: 21 / 21
+   25-26-champions-league-bayer-leverkusen-vs-manchester-city English lineup names matched: 20 / 20
+   25-26-champions-league-bayern-münchen-vs-arsenal English lineup names matched: 20 / 20
+   25-26-champions-league-benfica-vs-chelsea English lineup names matched: 19 / 20
+   25-26-champions-league-benfica-vs-newcastle-united English lineup names matched: 16 / 17
+   25-26-champions-league-borussia-dortmund-vs-manchester-city English lineup names matched: 20 / 20
+   25-26-champions-league-borussia-dortmund-vs-tottenham-hotspur English lineup names matched: 20 / 22
+   25-26-champions-league-chelsea-vs-atalanta English lineup names matched: 21 / 21
+   25-26-champions-league-chelsea-vs-bayern-münchen English lineup names matched: 21 / 22
+   25-26-champions-league-chelsea-vs-napoli English lineup names matched: 21 / 21
+   25-26-champions-league-chelsea-vs-qarabag-fk English lineup names matched: 22 / 22
+   25-26-champions-league-fc-københavn-vs-tottenham-hotspur English lineup names matched: 18 / 18
+   25-26-champions-league-galatasaray-vs-manchester-city English lineup names matched: 20 / 20
+   25-26-champions-league-kairat-almaty-vs-arsenal English lineup names matched: 18 / 21
+   25-26-champions-league-liverpool-vs-eintracht-frankfurt English lineup names matched: 18 / 19
+   25-26-champions-league-liverpool-vs-galatasaray English lineup names matched: 19 / 19
+   25-26-champions-league-liverpool-vs-inter English lineup names matched: 18 / 18
+   25-26-champions-league-liverpool-vs-marseille English lineup names matched: 18 / 18
+   25-26-champions-league-manchester-city-vs-bodø/glimt English lineup names matched: 19 / 21
+   25-26-champions-league-manchester-city-vs-monaco English lineup names matched: 19 / 19
+   25-26-champions-league-manchester-city-vs-villarreal English lineup names matched: 20 / 20
+   25-26-champions-league-napoli-vs-manchester-city English lineup names matched: 19 / 19
+   25-26-champions-league-newcastle-united-vs-bayer-leverkusen English lineup names matched: 14 / 16
+   25-26-champions-league-newcastle-united-vs-marseille English lineup names matched: 16 / 17
+   25-26-champions-league-newcastle-united-vs-paris-saint-germain English lineup names matched: 17 / 18
+   25-26-champions-league-newcastle-united-vs-union-st.gilloise English lineup names matched: 17 / 18
+   25-26-champions-league-olympiacos-vs-arsenal English lineup names matched: 20 / 20
+   25-26-champions-league-pafos-fc-vs-chelsea English lineup names matched: 20 / 21
+   25-26-champions-league-psv-eindhoven-vs-liverpool English lineup names matched: 17 / 18
+   25-26-champions-league-psv-eindhoven-vs-newcastle-united English lineup names matched: 16 / 17
+   25-26-champions-league-qarabag-fk-vs-liverpool English lineup names matched: 19 / 19
+   25-26-champions-league-real-madrid-vs-liverpool English lineup names matched: 17 / 18
+   25-26-champions-league-slavia-prague-vs-tottenham-hotspur English lineup names matched: 18 / 20
+   25-26-champions-league-tottenham-hotspur-vs-bodø/glimt English lineup names matched: 17 / 19
+   25-26-champions-league-tottenham-hotspur-vs-eintracht-frankfurt English lineup names matched: 17 / 19
+   25-26-champions-league-tottenham-hotspur-vs-monaco English lineup names matched: 18 / 19
+   25-26-champions-league-tottenham-hotspur-vs-paris-saint-germain English lineup names matched: 18 / 20
+   25-26-champions-league-villarreal-vs-tottenham-hotspur English lineup names matched: 19 / 20
+UCL 2025/26 goal timelines matching the score: 45 mismatch: 0

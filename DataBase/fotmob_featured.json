@@ -1,0 +1,103 @@
+[
+  {
+    "fotmob_match_id": 4813399,
+    "date": "2025-08-31", "home": "Liverpool", "away": "Arsenal",
+    "goal_detail": {"minute": 83, "detail": "Direct free kick"},
+    "sheets": {
+      "home": {"formation": "4-2-3-1", "coach": "Arne Slot", "team_rating": 7.1},
+      "away": {"formation": "4-2-3-1", "coach": "Mikel Arteta", "team_rating": 6.4}
+    },
+    "team_stats_source": "fotmob (possession, xG, shots, big chances, touches in box) + api-football via ontourfootball.com (shot split, passes, corners, fouls, offsides, saves; accurate passes derived from pass %) + openfootball (cards)",
+    "team_stats": {
+      "home": {"possession_pct": 53, "xg": 0.52, "total_shots": 9, "big_chances": 0, "touches_opp_box": 16,
+               "shots_on_target": 3, "shots_off_target": 2, "shots_blocked": 4, "corners": 3, "fouls": 7,
+               "offsides": 1, "passes_total": 435, "passes_accurate": 370, "keeper_saves": 1},
+      "away": {"possession_pct": 47, "xg": 0.49, "total_shots": 11, "big_chances": 0, "touches_opp_box": 29,
+               "shots_on_target": 1, "shots_off_target": 3, "shots_blocked": 7, "corners": 8, "fouls": 10,
+               "offsides": 0, "passes_total": 371, "passes_accurate": 304, "keeper_saves": 2}
+    },
+    "players": {
+      "home": [
+        {"of_name": "Alisson", "fotmob_name": "Alisson Becker", "shirt": 1, "pos": "GK", "group": "GK", "rating": 7.7},
+        {"of_name": "Dominik Szoboszlai", "fotmob_name": "Dominik Szoboszlai", "shirt": 8, "pos": "RB", "group": "MF", "rating": 8.5, "potm": true},
+        {"of_name": "Ibrahima Konate", "fotmob_name": "Ibrahima Konaté", "shirt": 5, "pos": "CB", "group": "DF", "rating": 6.9},
+        {"of_name": "Virgil van Dijk", "fotmob_name": "Virgil van Dijk", "shirt": 4, "pos": "CB", "group": "DF", "rating": 7.3},
+        {"of_name": "Milos Kerkez", "fotmob_name": "Miloš Kerkez", "shirt": 6, "pos": "LB", "group": "DF", "rating": 7.8},
+        {"of_name": "Ryan Gravenberch", "fotmob_name": "Ryan Gravenberch", "shirt": 38, "pos": "DM", "group": "MF", "rating": 7.6},
+        {"of_name": "Alexis Mac Allister", "fotmob_name": "Alexis Mac Allister", "shirt": 10, "pos": "DM", "group": "MF", "rating": 7.1},
+        {"of_name": "Mohamed Salah", "fotmob_name": "Mohamed Salah", "shirt": 11, "pos": "RW", "group": "FW", "rating": 6.5},
+        {"of_name": "Florian Wirtz", "fotmob_name": "Florian Wirtz", "shirt": 7, "pos": "AM", "group": "MF", "rating": 7.7},
+        {"of_name": "Cody Gakpo", "fotmob_name": "Cody Gakpo", "shirt": 18, "pos": "LW", "group": "FW", "rating": 7.1},
+        {"of_name": "Hugo Ekitike", "fotmob_name": "Hugo Ekitiké", "shirt": 22, "pos": "ST", "group": "FW", "rating": 6.2},
+        {"of_name": "Curtis Jones", "fotmob_name": "Curtis Jones", "shirt": 17, "pos": "SUB", "group": "MF", "rating": 6.8},
+        {"of_name": "Joe Gomez", "fotmob_name": "Joe Gomez", "shirt": 2, "pos": "SUB", "group": "DF", "rating": 6.6},
+        {"of_name": "Federico Chiesa", "fotmob_name": "Federico Chiesa", "shirt": 14, "pos": "SUB", "group": "FW", "rating": 5.9},
+        {"of_name": "Wataru Endo", "fotmob_name": "Wataru Endo", "shirt": 3, "pos": "SUB", "group": "MF", "rating": null}
+      ],
+      "away": [
+        {"of_name": "David Raya", "fotmob_name": "David Raya", "shirt": 1, "pos": "GK", "group": "GK", "rating": 6.1},
+        {"of_name": "Jurrien Timber", "fotmob_name": "Jurriën Timber", "shirt": 12, "pos": "RB", "group": "DF", "rating": 6.8},
+        {"of_name": "William Saliba", "fotmob_name": "William Saliba", "shirt": 2, "pos": "CB", "group": "DF", "rating": null},
+        {"of_name": "Gabriel Magalhaes", "fotmob_name": "Gabriel Magalhães", "shirt": 6, "pos": "CB", "group": "DF", "rating": 6.5},
+        {"of_name": "Riccardo Calafiori", "fotmob_name": "Riccardo Calafiori", "shirt": 33, "pos": "LB", "group": "DF", "rating": 6.8},
+        {"of_name": "Martin Zubimendi", "fotmob_name": "Martín Zubimendi", "shirt": 36, "pos": "DM", "group": "MF", "rating": 6.0},
+        {"of_name": "Declan Rice", "fotmob_name": "Declan Rice", "shirt": 41, "pos": "DM", "group": "MF", "rating": 6.8},
+        {"of_name": "Noni Madueke", "fotmob_name": "Noni Madueke", "shirt": 20, "pos": "RW", "group": "FW", "rating": 6.1},
+        {"of_name": "Mikel Merino", "fotmob_name": "Mikel Merino", "shirt": 23, "pos": "AM", "group": "MF", "rating": 6.2},
+        {"of_name": "Gabriel Martinelli", "fotmob_name": "Gabriel Martinelli", "shirt": 11, "pos": "LW", "group": "FW", "rating": 6.2},
+        {"of_name": "Viktor Gyokeres", "fotmob_name": "Viktor Gyökeres", "shirt": 14, "pos": "ST", "group": "FW", "rating": 6.3},
+        {"of_name": "Cristhian Mosquera", "fotmob_name": "Cristhian Mosquera", "shirt": 3, "pos": "SUB", "group": "DF", "rating": 6.7},
+        {"of_name": "Eberechi Eze", "fotmob_name": "Eberechi Eze", "shirt": 10, "pos": "SUB", "group": "MF", "rating": 6.3},
+        {"of_name": "Martin Odegaard", "fotmob_name": "Martin Ødegaard", "shirt": 8, "pos": "SUB", "group": "MF", "rating": 6.2},
+        {"of_name": "Max Dowman", "fotmob_name": "Max Dowman", "shirt": 56, "pos": "SUB", "group": "MF", "rating": null}
+      ]
+    }
+  },
+  {
+    "fotmob_match_id": 4813576,
+    "date": "2026-01-08", "home": "Arsenal", "away": "Liverpool",
+    "sheets": {
+      "home": {"formation": "4-3-3", "coach": "Mikel Arteta", "team_rating": 6.6},
+      "away": {"formation": "4-2-3-1", "coach": "Arne Slot", "team_rating": 7.2}
+    },
+    "team_stats_source": "fotmob (possession, xG, shots, touches in box) + openfootball (cards)",
+    "team_stats": {
+      "home": {"possession_pct": 48, "xg": 0.57, "total_shots": 9, "touches_opp_box": 24},
+      "away": {"possession_pct": 52, "xg": 0.31, "total_shots": 8, "touches_opp_box": 11}
+    },
+    "players": {
+      "home": [
+        {"of_name": "David Raya", "fotmob_name": "David Raya", "shirt": 1, "pos": "GK", "group": "GK", "rating": 6.8},
+        {"of_name": "Jurrien Timber", "fotmob_name": "Jurriën Timber", "shirt": 12, "pos": "RB", "group": "DF", "rating": 7.2},
+        {"of_name": "William Saliba", "fotmob_name": "William Saliba", "shirt": 2, "pos": "CB", "group": "DF", "rating": 7.0},
+        {"of_name": "Gabriel Magalhaes", "fotmob_name": "Gabriel Magalhães", "shirt": 6, "pos": "CB", "group": "DF", "rating": 7.1},
+        {"of_name": "Piero Hincapie", "fotmob_name": "Piero Hincapié", "shirt": 5, "pos": "LB", "group": "DF", "rating": 6.8},
+        {"of_name": "Martin Odegaard", "fotmob_name": "Martin Ødegaard", "shirt": 8, "pos": "CM", "group": "MF", "rating": 6.6},
+        {"of_name": "Martin Zubimendi", "fotmob_name": "Martín Zubimendi", "shirt": 36, "pos": "DM", "group": "MF", "rating": 7.3},
+        {"of_name": "Declan Rice", "fotmob_name": "Declan Rice", "shirt": 41, "pos": "CM", "group": "MF", "rating": 7.2},
+        {"of_name": "Bukayo Saka", "fotmob_name": "Bukayo Saka", "shirt": 7, "pos": "RW", "group": "FW", "rating": 6.4},
+        {"of_name": "Viktor Gyokeres", "fotmob_name": "Viktor Gyökeres", "shirt": 14, "pos": "ST", "group": "FW", "rating": 6.1},
+        {"of_name": "Leandro Trossard", "fotmob_name": "Leandro Trossard", "shirt": 19, "pos": "LW", "group": "FW", "rating": 6.6},
+        {"of_name": "Myles Lewis-Skelly", "fotmob_name": "Myles Lewis-Skelly", "shirt": 49, "pos": "SUB", "group": "DF", "rating": 6.2},
+        {"of_name": "Gabriel Martinelli", "fotmob_name": "Gabriel Martinelli", "shirt": 11, "pos": "SUB", "group": "FW", "rating": 6.4},
+        {"of_name": "Gabriel Jesus", "fotmob_name": "Gabriel Jesus", "shirt": 9, "pos": "SUB", "group": "FW", "rating": 6.1},
+        {"of_name": "Eberechi Eze", "fotmob_name": "Eberechi Eze", "shirt": 10, "pos": "SUB", "group": "MF", "rating": 6.2},
+        {"of_name": "Noni Madueke", "fotmob_name": "Noni Madueke", "shirt": 20, "pos": "SUB", "group": "FW", "rating": 6.1}
+      ],
+      "away": [
+        {"of_name": "Alisson", "fotmob_name": "Alisson Becker", "shirt": 1, "pos": "GK", "group": "GK", "rating": 8.2, "potm": true},
+        {"of_name": "Conor Bradley", "fotmob_name": "Conor Bradley", "shirt": 12, "pos": "RB", "group": "DF", "rating": 7.2},
+        {"of_name": "Ibrahima Konate", "fotmob_name": "Ibrahima Konaté", "shirt": 5, "pos": "CB", "group": "DF", "rating": 7.2},
+        {"of_name": "Virgil van Dijk", "fotmob_name": "Virgil van Dijk", "shirt": 4, "pos": "CB", "group": "DF", "rating": 7.3},
+        {"of_name": "Milos Kerkez", "fotmob_name": "Miloš Kerkez", "shirt": 6, "pos": "LB", "group": "DF", "rating": 7.5},
+        {"of_name": "Ryan Gravenberch", "fotmob_name": "Ryan Gravenberch", "shirt": 38, "pos": "DM", "group": "MF", "rating": 7.4},
+        {"of_name": "Alexis Mac Allister", "fotmob_name": "Alexis Mac Allister", "shirt": 10, "pos": "DM", "group": "MF", "rating": 7.4},
+        {"of_name": "Jeremie Frimpong", "fotmob_name": "Jeremie Frimpong", "shirt": 30, "pos": "RW", "group": "DF", "rating": 6.8},
+        {"of_name": "Dominik Szoboszlai", "fotmob_name": "Dominik Szoboszlai", "shirt": 8, "pos": "AM", "group": "MF", "rating": 6.8},
+        {"of_name": "Cody Gakpo", "fotmob_name": "Cody Gakpo", "shirt": 18, "pos": "LW", "group": "FW", "rating": 6.3},
+        {"of_name": "Florian Wirtz", "fotmob_name": "Florian Wirtz", "shirt": 7, "pos": "ST", "group": "MF", "rating": 7.2},
+        {"of_name": "Joe Gomez", "fotmob_name": "Joe Gomez", "shirt": 2, "pos": "SUB", "group": "DF", "rating": null}
+      ]
+    }
+  }
+]
